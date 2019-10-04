@@ -11,9 +11,12 @@ card game (currently being created) made in my free time at home.
 ## Screenshots 
 
 - Card deck editor
+![alt text] (https://github.com/Ryan-Paul-Burdus/card-game/blob/master/Screenshots/Deck%20editor.png "Card deck editor")
 
+![alt text] (https://github.com/Ryan-Paul-Burdus/card-game/blob/master/Screenshots/Deck%20editor%20selection.png "Edit deck selecter")
 
-- Card deck selector
-
+- Card deck selecter
+![alt text] (https://github.com/Ryan-Paul-Burdus/card-game/blob/master/Screenshots/Deck%20selection.png "Card deck selecter")
 
 - Gameplay 
+![alt text] (https://github.com/Ryan-Paul-Burdus/card-game/blob/master/Screenshots/Gameplay.png "Gameplay screen")
