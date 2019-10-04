@@ -1,2 +1,2 @@
 # card-game
-card game (not finished)
+card game (currently being created).
