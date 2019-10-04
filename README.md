@@ -1,4 +1,5 @@
 # card-game
+### Created by Ryan Burdus, 09/08/2019
 card game (currently being created) made in my free time at home.
 This game is a singleplayer card game (plans to make multiplayer) made in Unity with C# where the main features of the game are: 
 - Creating, editing and deleting card decks 
