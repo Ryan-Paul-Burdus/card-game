@@ -1,13 +1,13 @@
 # card-game
 ### Created by Ryan Burdus, 09/08/2019
 card game (currently being created) made in my free time at home.
-This game is a singleplayer card game (plans to make multiplayer) made in Unity with C# where the main features of the game are: 
+This game is a singleplayer card game (plans to make multiplayer) **made in Unity with C#** where the main features of the game are: 
 - Creating, editing and deleting card decks 
 - Playing a game with an AI player with a selected card deck
 
 The player will first need to create a deck using the deck builder and will then have to add cards and name this deck to be able to save the deck to the deck selecter. The player will then be able to pick a deck in the deck selecter and play the game against an AI player. The cards are drawn every turn and the player will win the game when the other players health reaches zero.
 
- All code and art used within this game have been created by myself (Ryan Burdus) and nobody else.
+ **All code and art used within this game have been created by myself (Ryan Burdus) and nobody else.**
  
 ## Code Highlights
 
